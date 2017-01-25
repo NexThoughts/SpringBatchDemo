@@ -1,4 +1,4 @@
-package com.danibuiza.javacodegeeks.springbatch;
+package com.springbatch.demo;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
@@ -29,7 +29,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
-import org.springframework.batch.test.JobLauncherTestUtils;
 
 /**
  * This class contains all the configuration of the Spring Batch application

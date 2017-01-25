@@ -1,4 +1,4 @@
-package com.danibuiza.javacodegeeks.springbatch;
+package com.springbatch.demo;
 
 
 public class CustomPojo {

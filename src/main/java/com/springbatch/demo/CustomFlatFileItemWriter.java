@@ -1,4 +1,4 @@
-package com.danibuiza.javacodegeeks.springbatch;
+package com.springbatch.demo;
 
 import java.util.List;
 
